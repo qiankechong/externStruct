@@ -1,5 +1,4 @@
 
-
 #include "abc.h"
 
 
@@ -7,11 +6,7 @@
 SRDITS SRdbits ;
 
 
-// extern struct SRBITS SRbits ;
 
-// extern SRAITS SRabits ;
-
-//#define ULNG unsigned long
 int  sumbcd(int a,int b)
 {
     return a + b ;
