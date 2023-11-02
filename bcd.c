@@ -6,13 +6,12 @@
 SRDITS SRdbits ;
 
 
-
 int  sumbcd(int a,int b)
 {
     return a + b ;
 
 }
-//void UART2Init(ULNG Baudrate)
+
 void UART3Init(int Baudrate)
 {
 
