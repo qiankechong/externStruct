@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "abc.h": "c",
+        "system.h": "c"
+    }
+}
